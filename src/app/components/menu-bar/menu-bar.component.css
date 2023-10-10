@@ -1,0 +1,12 @@
+.container-menur-bar > ul{
+  display: flex;
+  flex-direction: row;
+}
+.container-menur-bar > ul > li{
+margin: 20px;
+list-style: none;
+}
+
+*{
+  font-family: 'Segoe UI';
+}
